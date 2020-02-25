@@ -1,11 +1,11 @@
 # Site settings
-author: Agnes Park
-title: 
+author: Agnes 
+title: BLog
 header-img: img/home-bg.png
 email: agnespark824@gmail.com
-copyright_name: Agnes Park
+copyright_name: Agnes 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  agnespark824
